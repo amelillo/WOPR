@@ -30,7 +30,9 @@ The third column features:
 
   There's way too much for a quick temporary notepad so I found it unnecessary to further develop a more complex syntax highlighting.
   
-  ### Legacy
+### Usage
+Open the wopr.txt file, copy its content and paste it into any browser's URL bar, then hit Enter. The tab will be transformed in your new favourite temporary notepad!
+### Legacy
 As you will notice, **WOPR** is mainly orange-on-black and this is a direct reference to **Plato** system, the forerunner of all our modern virtual places. Then, the name itself is a reference to the  remarkable 1983 film titled "WarGames", which all of us older folks found fascinating when we were kids, and which—even today, in the second quarter of the twenty-first century—would still be educational to show.
 The placeholders that **WOPR** inserts at the top of the columns to better visualize their layout are a direct reference to the prompt that the real WOPR displayed upon login.
 
