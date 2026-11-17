@@ -1,7 +1,6 @@
 # WOPR - MK III
 ## a one-liner which creates a three-column notepad in your browser
   
-
   <img width="1920" height="1200" alt="Schermata del 2026-11-17 09-50-23" src="https://github.com/user-attachments/assets/574c1576-9f31-47ed-9c34-d0674944a205" />
 
 ### History
@@ -33,7 +32,11 @@ The third column features:
   There's way too much for a quick temporary notepad so I found it unnecessary to further develop a more complex syntax highlighting.
   
 ### Usage
-Open the wopr.txt file, copy its content and paste it into any browser's URL bar, then hit Enter. The tab will be transformed in your new favourite temporary notepad!
+Open the wopr.txt file, copy its content and paste it into any browser's URL bar, then hit Enter. The tab will be transformed in your new favourite temporary notepad! Please enable in your browser the feature to keep and restore any active window on launch.  
+  
+<img width="633" height="364" alt="Schermata del 2026-11-17 15-49-40" src="https://github.com/user-attachments/assets/6cfd169e-58ae-4b44-81e8-11685fe64512" />
+
+
 ### Legacy
 As you will notice, **WOPR** is mainly orange-on-black and this is a direct reference to **Plato** system, the forerunner of all our modern virtual places. Then, the name itself is a reference to the  remarkable 1983 film titled "WarGames", which all of us older folks found fascinating when we were kids, and which—even today, in the second quarter of the twenty-first century—would still be educational to show.
 The placeholders that **WOPR** inserts at the top of the columns to better visualize their layout are a direct reference to the prompt that the real WOPR displayed upon login.
