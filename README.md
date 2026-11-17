@@ -42,4 +42,4 @@ As you will notice, **WOPR** is mainly orange-on-black and this is a direct refe
 The placeholders that **WOPR** inserts at the top of the columns to better visualize their layout are a direct reference to the prompt that the real WOPR displayed upon login.
 
 ### License
-The code is licensed under GPL 3.0
+The code is licensed under GNU General Public License v3.0
