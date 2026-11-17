@@ -1,7 +1,9 @@
 # WOPR - MK III
 ## a one-liner which creates a three-column notepad in your browser
   
-  
+
+  <img width="1920" height="1200" alt="Schermata del 2026-11-17 09-50-23" src="https://github.com/user-attachments/assets/574c1576-9f31-47ed-9c34-d0674944a205" />
+
 ### History
 Who doesn't need to keep track of his thoughts, intuitions, snippets, links and more?  
 For many years my memory has been overloaded with informations I couldn't just keep in mind. I started carrying with me a small Rhodia notepad and a pen, which I still do by the way; I use it as a sort of FIFO stack: I note down everything I can't handle in the immediate. Then I proceed deleting every item as soon as I've completed the task, starting from older ones. 
